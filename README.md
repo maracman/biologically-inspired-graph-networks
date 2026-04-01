@@ -2,7 +2,7 @@
 
 A self-teaching course exploring how biological neural network topology can inform the design of sparse network architectures for machine learning. The course builds from graph theory fundamentals to biologically grounded network generation methods, with a focus on pruning-based construction that mirrors synaptic development.
 
-Part of a broader research programme connecting neuroscience to AI alignment. See the [project context](#project-context) section below.
+Part of a broader research programme connecting neuroscience to AI alignment. 
 
 ![Network Generation Methods Compared](images/03_network_comparison.png)
 
